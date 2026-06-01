@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Tarık. I'm a software developer from Turkey.<br><br>I like to work on and learn about backend development, ML and low level programming.</p>
+<p align="left">My name is Tarık. I'm a software developer from Turkey.<br><br>I like to work on and learn about backend development, AI and low level programming.</p>
 
 ###
 
